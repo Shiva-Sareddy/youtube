@@ -1,0 +1,43 @@
+.aside-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 65px;
+  bottom: 0;
+  width: 90px;
+  z-index: 99;
+  background-color: white;
+}
+
+.sidebar-icon {
+  width: 100%;
+  height: 100px;
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.sidebar-icon:hover {
+  width: 100%;
+  background-color: rgb(220, 220, 220);
+  font-weight: 500;
+}
+
+.in-sidebar-icon {
+  width: 45%;
+}
+.sidebar-icon p {
+  font-size: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 630px) {
+  .aside-container {
+    display: none;
+  }
+}
