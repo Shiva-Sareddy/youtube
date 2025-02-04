@@ -2,7 +2,7 @@
 
 A **fully responsive** YouTube clone built using **HTML & CSS**, focusing on **modern UI aesthetics, design consistency, and adaptability** across devices.  
 
-![Project Preview](https://imgur.com/a/pFhIK9b) 
+<img src="https://i.imgur.com/5YrXdmK.png" alt="Alt Text" width="400"/>
 
 ## 🚀 Features  
 - 🎨 **Pixel-perfect UI** with sleek design  
@@ -17,8 +17,11 @@ A **fully responsive** YouTube clone built using **HTML & CSS**, focusing on **m
 - **Media Queries** for mobile-friendly design  
 
 ## 📸 Screenshots  
-![Screenshot 1](https://imgur.com/a/NjYb2Uc)  
-![Screenshot 2](https://imgur.com/a/54dIhyj) 
+- Tablet View
+<img src="https://i.imgur.com/9t3tPji.jpeg" alt="Alt Text" width="400"/>
+
+- Mobile View
+<img src="https://i.imgur.com/r5DfOCA.png" alt="Alt Text" width="200"/>
 
 ## 🚀 Live Demo  
 🔗 [Check it out here](https://shiva-sareddy.github.io/youtube/)  
