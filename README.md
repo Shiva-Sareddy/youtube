@@ -6,9 +6,7 @@ A **fully responsive** YouTube clone built using **HTML & CSS**, focusing on **m
 
 ## 🚀 Features  
 - 🎨 **Pixel-perfect UI** with sleek design  
-- 📱 **Fully responsive** with **flexbox & media queries**  
-- 🌙 **Dark & Light mode toggle** *(optional if implemented)*  
-- 🎥 **Custom video thumbnails & grid layouts**  
+- 📱 **Fully responsive** with **flexbox & media queries**   
 
 ## 🛠️ Technologies Used  
 - **HTML5** for structured content  
